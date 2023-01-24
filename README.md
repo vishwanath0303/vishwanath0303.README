@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for collaboration in java project.
 - 💬 Ask me about anything in JAVA.
 - 📫 How to reach me: at linkedin(Vishvanath kulkarni)
-- 😄 Pronouns: vushwa
+- 😄 Pronouns: vishwa
 - ⚡ Fun fact: I love to code and play games.
 
